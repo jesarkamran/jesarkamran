@@ -1,4 +1,5 @@
-![alt text](https://github.com/jesarkamran/jesarkamran/blob/master/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png = 250x200px)
+![alt text]( = 250x200px)
+<img src="https://github.com/jesarkamran/jesarkamran/blob/master/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png" width="200">
 # 💫 About Me:
 🔭 I’m Student at Comsats University Islamabad<br>👯 I’m looking to collaborate on JAVA, PYTHON, and C++ projects<br>🌱 I’m currently Learning SQL, DBMS<br>💬 Ask me about problems related to DSA, OOPS
 
