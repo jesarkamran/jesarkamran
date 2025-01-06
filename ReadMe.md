@@ -1,6 +1,4 @@
-<img src="https://github.com/jesarkamran/jesarkamran/blob/master/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png" height="400" width="200%">
-
-# 💫 About Me:
+## 💫 About Me:
 🔭 I'm Student at Comsats University Islamabad<br>👯 I'm looking to collaborate on MERN Stack, JAVA, PYTHON, and C++ projects<br>🌱 I'm currently Learning Full Stack Development<br>💬 Ask me about problems related to DSA, OOPS, and Web Development
 
 ## 🌐 Socials:
